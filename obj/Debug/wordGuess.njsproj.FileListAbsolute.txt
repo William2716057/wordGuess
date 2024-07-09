@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\wordGuess\wordGuess\obj\Debug\wordGuess.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\wordGuess\wordGuess\obj\Debug\wordGuess.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\wordGuess\wordGuess\bin\Microsoft.NodejsTools.WebRole.dll
